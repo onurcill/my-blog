@@ -2,4 +2,4 @@
 title: info
 ---
 
-I am a front-end web developer. I used to be a web designer too, but now I concentrate on the code.
+Adopted agile software architects with 2+ year of software development experience in web especially banking and telecommunications industries. Try to improve the quality of the code. Also lifelong learner.
