@@ -105,3 +105,4 @@ Search.propTypes = {
 };
 
 export default injectSheet(styles)(Search);
+*/
