@@ -33,6 +33,9 @@
     "sharp-cli": "^1.7.0",
     "webpack-bundle-analyzer": "^2.13.1"
   },
+  "scripts:" {         
+         "heroku-postbuild": "gatsby build"
+  },
   "dependencies": {
     "@material-ui/core": "^1.4.0",
     "@material-ui/icons": "^1.1.0",
