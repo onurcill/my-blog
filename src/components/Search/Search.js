@@ -85,9 +85,9 @@ const Search = props => {
       {algolia &&
         algolia.appId && (
           <InstantSearch
-            appId={algolia.appId}
-            apiKey={algolia.searchOnlyApiKey}
-            indexName={algolia.indexName}
+            appId="DJ9O25NGD6"
+            apiKey="d5436e2a4761c9b247ee341718fca9a1"
+            indexName="prod"
           >
             <SearchBox translations={{ placeholder: "Search" }} />
             <Stats />
