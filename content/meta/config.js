@@ -4,7 +4,7 @@ module.exports = {
   siteTitle: "PersonalBlog", // <title>
   shortSiteTitle: "Onur Cil PersonalBlog",
   siteDescription: "PersonalBlog is a Onur starter.",
-  siteUrl: "",
+  siteUrl: "http://localhost:8000",
   pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",
