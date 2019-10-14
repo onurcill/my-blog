@@ -7,7 +7,7 @@ import Article from "../components/Main/Article";
 import PageHeader from "../components/Page/PageHeader";
 import Search from "../components/Search";
 
-const SearchPage = props => {
+/*const SearchPage = props => {
   const { data } = props;
 
   return (

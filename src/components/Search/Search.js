@@ -5,7 +5,7 @@ import { InstantSearch, SearchBox, Hits, Stats, Pagination } from "react-instant
 
 import Hit from "./Hit";
 
-const styles = theme => ({
+/*const styles = theme => ({
   search: {
     marginTop: "-1em",
     "& .ais-SearchBox": {
