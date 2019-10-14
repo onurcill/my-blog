@@ -1,4 +1,4 @@
-/*import React from "react";
+import React from "react";
 import PropTypes from "prop-types";
 require("core-js/fn/array/find");
 
@@ -40,4 +40,3 @@ export const query = graphql`
     }
   }
 `;
-*/
